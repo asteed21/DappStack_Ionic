@@ -1,2 +1,2 @@
-# DappStack_Ionic
-Ionic implementation for Dappstack angular web app
+This is the repository for the ionic 2 implementation of the Dappstack web app.
+
