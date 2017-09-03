@@ -39,7 +39,7 @@
 /******/ 			Object.defineProperty(exports, name, {
 /******/ 				configurable: false,
 /******/ 				enumerable: true,
-/******/ 				get: getter
+/******/ 				get: getter 
 /******/ 			});
 /******/ 		}
 /******/ 	};
